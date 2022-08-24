@@ -7,3 +7,30 @@
 .text-align{
     padding-right: 300px;
 }
+
+.Container{
+    background-image: url("https://burst.shopifycdn.com/photos/laptop-from-above.jpg?width=1200&format=pjpg&exif=1&iptc=1");
+}
+
+.Container-Heading{
+    text-align: center;
+    color: whitesmoke;
+    font-family: 'Aboreto', cursive;
+}
+
+.Color-text{
+    color: brown;
+    font-family: 'Abril Fatface', cursive;
+}
+
+.Container-text1{
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 100px;
+    margin-right: 100px;
+    color: tan;
+}
+
+.Container1-Heading{
+    text-align: center;    
+}
